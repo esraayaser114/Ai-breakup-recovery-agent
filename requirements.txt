@@ -1,0 +1,6 @@
+streamlit
+extra-streamlit-components
+agno
+google-generativeai
+duckduckgo-search
+pydantic
