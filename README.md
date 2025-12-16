@@ -1,4 +1,3 @@
-# Ai-breakup-recovery-agent
 # 💔 Breakup Recovery Squad
 
 An AI-powered emotional recovery web app that helps users process breakups through empathy, clarity, structure, and honest reflection. The system orchestrates multiple specialized AI agents to deliver emotional support, closure writing, recovery planning, and grounded reality checks — all in one private, user-controlled experience.
